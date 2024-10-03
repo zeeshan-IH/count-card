@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of card-count
+ */
+export * from './lib/card-count.service';
+export * from './lib/card-count.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2NhcmQtY291bnQvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsNEJBQTRCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGNhcmQtY291bnRcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9jYXJkLWNvdW50LnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvY2FyZC1jb3VudC5jb21wb25lbnQnO1xuIl19
